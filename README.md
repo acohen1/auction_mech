@@ -1,9 +1,9 @@
-# auction_mech
+# Learning Revenue-Optimal Single-Item Auctions with Correlated Bidders
 
 A lightweight sandbox for training revenue-optimal neural auctions under bidder correlation and distributional uncertainty.
 
 📄 [Read the full project report (PDF)](./Final_Report.pdf)  
-
+🔬 Implements latent-factor valuations, Optuna-based λ-tuning, and architectural incentive guarantees.
 ---
 
 ## Install
@@ -42,7 +42,7 @@ Automatic Phase-1 imitation
 | hetero      | Vickrey |
 
 
-### What prints?
+### Output metrics
 
 After training the CLI prints learned revenue, regret, and allocative
 efficiency, plus Vickrey and distribution-specific baselines. Default λ-weights
