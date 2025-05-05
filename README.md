@@ -3,7 +3,8 @@
 A lightweight sandbox for training revenue-optimal neural auctions under bidder correlation and distributional uncertainty.
 
 📄 [Read the full project report (PDF)](./Final_Report.pdf)  
-🔬 Implements latent-factor valuations, Optuna-based λ-tuning, and architectural incentive guarantees.
+Implements latent-factor valuations, Optuna-based λ-tuning, and architectural incentive guarantees.
+
 ---
 
 ## Install
