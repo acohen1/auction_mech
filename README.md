@@ -1,6 +1,8 @@
 # auction_mech
 
-Tiny sandbox for training **neural single-item auctions** with revenue + IC penalties — plus one-command Optuna tuning.
+A lightweight sandbox for training revenue-optimal neural auctions under bidder correlation and distributional uncertainty.
+
+📄 [Read the full project report (PDF)](./Final_Report.pdf)  
 
 ---
 
